@@ -7,7 +7,7 @@
         fetch="https://gitlab.com/Deivid21/" />
 
     <!-- Bangkk -->
-    <remote name="bangkk" fetch="https://github.com/zedisspp" clone-depth="1" />
+    <remote name="bangkk" fetch="https://github.com/zedisspp" />
 
     <!-- Repos -->
     <!-- Device -->
@@ -92,5 +92,8 @@
     path="vendor/motorola/MotorolaSettingsProvider"
     remote="gitlab-deivid"
     revision="android-16" />
+
+    <remove-project name="device_axion_common" />
+    <project name="device_axion_common" path="device/axion/common" remote="bangkk" revision="lineage-23.2" />
     
 </manifest>
