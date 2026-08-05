@@ -11,10 +11,10 @@
 
     <!-- Repos -->
     <!-- Device -->
-    <project path="device/motorola/bangkk" name="device_motorola_bangkk" remote="bangkk" revision="lineage-23.2" />
+    <project path="device/motorola/bangkk" name="device_motorola_bangkk" remote="bangkk" revision="lumine-23.2" />
 
     <!-- Device common -->
-    <project path="device/motorola/sm6375-common" name="device_motorola_sm6375-common" remote="bangkk" revision="lineage-23.2" />
+    <project path="device/motorola/sm6375-common" name="device_motorola_sm6375-common" remote="bangkk" revision="lumine-23.2" />
 
     <!-- Vendor -->
     <project path="vendor/motorola/bangkk" name="vendor_motorola_bangkk" remote="bangkk" revision="lineage-23.2" />
@@ -23,7 +23,7 @@
     <project path="vendor/motorola/sm6375-common" name="vendor_motorola_sm6375-common" remote="bangkk" revision="lineage-23.2" />
 
     <!-- Kernel -->
-    <project path="kernel/motorola/sm6375" name="kernel_motorola_sm6375" remote="bangkk" revision="lineage-23.2" />
+    <project path="kernel/motorola/sm6375" name="kernel_motorola_sm6375" remote="bangkk" revision="lumine-23.2" />
 
     <!-- Hardware motorola -->
     <project path="hardware/motorola" name="hardware_motorola" remote="bangkk" revision="lineage-23.2" />
@@ -31,6 +31,9 @@
     <!-- Hardware dolby -->
     <project path="hardware/dolby" name="hardware_dolby" remote="bangkk" revision="lineage-23.2" />
 
+    <!-- Hardware nfc -->
+    <project path="hardware/samsung/slsi/nfc" name="hardware_samsung_slsi_nfc" remote="bangkk" revision="lineage-23.2" />
+    
     <!-- GameBar -->
     <project path="packages/apps/GameBar" name="packages_apps_GameBar" remote="bangkk" revision="lineage-23.2" />
     
@@ -93,7 +96,4 @@
     remote="gitlab-deivid"
     revision="android-16" />
 
-    <remove-project name="android_device_axion_common" />
-    <project name="device_axion_common" path="device/axion/common" remote="bangkk" revision="lineage-23.2" />
-    
 </manifest>
