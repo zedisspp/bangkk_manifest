@@ -8,5 +8,5 @@ curl -o .repo/local_manifests/bangkk.xml -L "https://raw.githubusercontent.com/z
 Axion nfc
 ```
 mkdir -p .repo/local_manifests
-curl -o .repo/local_manifests/bangkk.xml -L "https://raw.githubusercontent.com/zedisspp/bangkk_manifest/refs/heads/main/bangkk_nfc.xml"
+curl -o .repo/local_manifests/bangkk_nfc.xml -L "https://raw.githubusercontent.com/zedisspp/bangkk_manifest/refs/heads/main/bangkk_nfc.xml"
 ```
