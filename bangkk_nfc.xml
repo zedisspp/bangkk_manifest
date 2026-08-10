@@ -14,7 +14,7 @@
     
     <!-- Repos -->
     <!-- Device -->
-    <project path="device/motorola/bangkk" name="device_motorola_bangkk" remote="bangkk" revision="lineage-23.2" />
+    <project path="device/motorola/bangkk" name="device_motorola_bangkk" remote="bangkk" revision="nyx-23.2" />
 
     <!-- Device common -->
     <project path="device/motorola/sm6375-common" name="device_motorola_sm6375-common" remote="bangkk" revision="lineage-23.2" />
