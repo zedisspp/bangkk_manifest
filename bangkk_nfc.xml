@@ -14,7 +14,7 @@
     
     <!-- Repos -->
     <!-- Device -->
-    <project path="device/motorola/bangkk" name="device_motorola_bangkk" remote="bangkk" revision="nyx-23.2" />
+    <project path="device/motorola/bangkk" name="device_motorola_bangkk" remote="bangkk" revision="lineage-23.2" />
 
     <!-- Device common -->
     <project path="device/motorola/sm6375-common" name="device_motorola_sm6375-common" remote="bangkk" revision="lineage-23.2" />
@@ -26,7 +26,7 @@
     <project path="vendor/motorola/sm6375-common" name="vendor_motorola_sm6375-common" remote="bangkk" revision="lineage-23.2" />
 
     <!-- Kernel -->
-    <project path="kernel/motorola/sm6375" name="android_kernel_motorola_sm6375" remote="lineage" revision="lineage-23.2" />
+    <project path="kernel/motorola/sm6375" name="android_kernel_motorola_sm6375" remote="bangkk" revision="lineage-23.2" />
 
     <!-- Hardware motorola -->
     <project path="hardware/motorola" name="hardware_motorola" remote="bangkk" revision="lineage-23.2" />
