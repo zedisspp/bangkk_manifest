@@ -28,9 +28,6 @@
 
     <!-- Hardware nfc -->
     <project path="hardware/samsung/slsi/nfc" name="hardware_samsung_slsi_nfc" remote="bangkk" revision="lineage-24.0" />
-
-    <!-- GameBar -->
-    <project path="packages/apps/GameBar" name="packages_apps_GameBar" remote="bangkk" revision="lineage-23.2" />
     
     <!-- Viper4fx -->
     <project path="packages/apps/ViPER4AndroidFX" name="packages_apps_ViPER4AndroidFX" remote="bangkk" revision="v4a" />
