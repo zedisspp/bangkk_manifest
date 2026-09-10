@@ -29,7 +29,7 @@
     <project path="hardware/motorola" name="hardware_motorola" remote="bangkk" revision="lineage-23.2" />
 
     <!-- Hardware dolby -->
-    <project path="hardware/dolby" name="hardware_dolby" remote="bangkk" revision="lineage-23.2" />
+    <project path="hardware/dolby" name="android_hardware_dolby" remote="bangkk" revision="lineage-24.0" />
 
     <!-- GameBar -->
     <project path="packages/apps/GameBar" name="packages_apps_GameBar" remote="bangkk" revision="lineage-23.2" />
