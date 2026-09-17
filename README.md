@@ -1,22 +1,18 @@
-# bangkk_manifest
+![bangkk](banner/bangkk.png)
+# Motorola Moto G84 5G (bangkk) Manifest
 
-Axion (ofc)
+Axion oficial (23.2)
 ```
 mkdir -p .repo/local_manifests
-curl -o .repo/local_manifests/bangkk.xml -L "https://raw.githubusercontent.com/zedisspp/bangkk_manifest/refs/heads/main/bangkk.xml"
+curl -o .repo/local_manifests/lineage-23.2-bangkk-axion-ofc.xml -L "https://raw.githubusercontent.com/zedisspp/bangkk_manifest/refs/heads/main/lineage-23.2-bangkk-axion-ofc.xml"
 ```
-23.2
-```
-mkdir -p .repo/local_manifests
-curl -o .repo/local_manifests/bangkk_nfc.xml -L "https://raw.githubusercontent.com/zedisspp/bangkk_manifest/refs/heads/main/bangkk_nfc.xml"
-```
-default 23.2
+lineage-23.2
 ```
 mkdir -p .repo/local_manifests
-curl -o .repo/local_manifests/bangkk_default.xml -L "https://raw.githubusercontent.com/zedisspp/bangkk_manifest/refs/heads/main/bangkk_default.xml"
+curl -o .repo/local_manifests/lineage-23.2-bangkk.xml -L "https://raw.githubusercontent.com/zedisspp/bangkk_manifest/refs/heads/main/lineage-23.2-bangkk.xml"
 ```
-24.0
+lineage-24.0
 ```
 mkdir -p .repo/local_manifests
-curl -o .repo/local_manifests/bangkk_24.0.xml -L "https://raw.githubusercontent.com/zedisspp/bangkk_manifest/refs/heads/main/bangkk_24.0.xml"
+curl -o .repo/local_manifests/lineage-24.0-bangkk.xml -L "https://raw.githubusercontent.com/zedisspp/bangkk_manifest/refs/heads/main/lineage-24.0-bangkk.xml"
 ```
