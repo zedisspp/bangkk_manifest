@@ -34,9 +34,6 @@
     <!-- Hardware nfc -->
     <project path="hardware/samsung/slsi/nfc" name="hardware_samsung_slsi_nfc" remote="bangkk" revision="lineage-24.0" />
     
-    <!-- Viper4fx -->
-    <project path="packages/apps/ViPER4AndroidFX" name="packages_apps_ViPER4AndroidFX" remote="bangkk" revision="v4a" />
-    
     <!-- MotoCam sm6375 -->
     <project
     name="proprietary_vendor_motorola_MotCamera4-sm6375"
